@@ -35,11 +35,11 @@ body {
 #banner .content h1 {
   background-color: white;
   opacity: 0.85;
-  border: 3px solid white;
+  border: 10px solid white;
   color: black;
   position: relative;
-  top: 290px;
-  width: 500px;
+  top: 500px;
+  width: 800px;
   margin: 0 auto;
   text-align: center;
 }
