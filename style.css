@@ -26,10 +26,9 @@ body {
 #banner {
   background-image: url("https://i.ibb.co/hYtxh8f/http-cdn-cnn-com-cnnnext-dam-assets-220421123034-06-david-yarrow-winters-coming.jpg");
   background-size: cover;
-
   background-position: bottom center;
   height: 300px;
-  width: 100%;
+  width: 80%;
 }
 
 #banner .content h1 {
