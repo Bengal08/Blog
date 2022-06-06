@@ -11,15 +11,15 @@ body {
   text-align: center;
 }
 .photographer li {
-  font-weight: 80;
-  letter-spacing: 4px;
-  padding: 20px;
+  font-weight: 150;
+  letter-spacing: 10px;
+  padding: 30px;
 }
 
 .photographer li.logo {
   color: black;
-  font-size: 18px;
-  font-weight: 600;
+  font-size: 24px;
+  font-weight: 500;
   letter-spacing: 4px;
 }
 
